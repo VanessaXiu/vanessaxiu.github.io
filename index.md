@@ -1,6 +1,3 @@
-github:
-  is_project_page: false
-
 # Vanessa Xiu _修璠瑜_
 Student at [McGill University](mcgill.ca)
 
